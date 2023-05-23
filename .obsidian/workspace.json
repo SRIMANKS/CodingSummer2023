@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "091c50bc410a5064",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f99880894807a7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0220f6281facae3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "380550017d094ffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dsa Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b11b3db06511a77",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72d259421b7b89a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcc5019274faf196",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c01c1b2300f19b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5ba880f09872606",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "929df4c8dee3f07f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "right": {
+    "id": "bd1a770f13871bd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e7bf63144699f74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2854da2e8957d9b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5a03c3c0eefecad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45d24d3eee0e7a96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8fef7bdc055c86d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "8b11b3db06511a77",
+  "lastOpenFiles": [
+    "heaps and proirity queues.md",
+    "Dsa Main.md",
+    "Pasted image 20230522235237.png",
+    "Pasted image 20230522235228.png",
+    "Pasted image 20230522233913.png",
+    "Pasted image 20230522233844.png",
+    "Pasted image 20230522233757.png"
+  ]
+}
